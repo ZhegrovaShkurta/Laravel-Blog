@@ -1,3 +1,27 @@
+Laravel Blog is a feature blog application built using the Laravel PHP framework.
+The project demonstrates a well-structured backend with a focus on clean code, adhering to the principles of Object-Oriented Programming (OOP) and the Model-View-Controller (MVC) architecture. It includes robust security measures, such as user authentication, email verification, and role-based authorization.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
