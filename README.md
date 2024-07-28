@@ -2,6 +2,13 @@ Laravel Blog is a feature blog application built using the Laravel PHP framework
 The project demonstrates a well-structured backend with a focus on clean code, adhering to the principles of Object-Oriented Programming (OOP) and the Model-View-Controller (MVC) architecture. It includes robust security measures, such as user authentication, email verification, and role-based authorization.
 
 
+Features:
+-User Authentication: Secure login and registration system with email verification.
+-Role-based Authorization: Admin and user roles with specific permissions.
+-Post Management: CRUD operations for blog posts, with options for drafts and published posts.
+-Comment System: Users can comment on posts, with moderation capabilities.
+-Search and Filtering: Easy navigation and search through posts.
+
 
 
 
